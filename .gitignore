@@ -1,0 +1,11 @@
+.env
+uploads/
+__pycache__/
+node_modules/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.vscode/
+.idea/
