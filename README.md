@@ -1,11 +1,3 @@
-python backend/app.py
-cd frontend
-npm run dev
-
-
-
-
-
 # Edcare4u - AI Quiz Generator
 
 Upload study material images, extract text with OCR, and generate interactive quizzes powered by Google Gemini.
