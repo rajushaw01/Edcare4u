@@ -98,7 +98,7 @@ export default function Features() {
         </div>
 
         {/* Bottom CTA */}
-        <div className="mt-16 text-center">
+        {/* <div className="mt-16 text-center">
           <div className="inline-flex items-center gap-3 bg-gray-50 rounded-2xl px-8 py-6 border border-gray-100">
             <div className="flex -space-x-2">
               <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary-400 to-primary-600 border-2 border-white flex items-center justify-center text-white text-sm font-bold">
@@ -116,7 +116,7 @@ export default function Features() {
               <p className="text-xs text-gray-500">already learning with Edcare4u</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
